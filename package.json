@@ -1,0 +1,23 @@
+{
+  "name": "karma-coverage-istanbul-es5-preprocessor",
+  "version": "1.0.0",
+  "description": "Karma preprocessor to instrument es5 files for use with karma-coverage-istanbul-reporter",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "karma-preprocessor",
+    "coverage",
+    "istanbul",
+    "istanbul-lib-instrument",
+    "karma-coverage-istanbul-reporter"
+  ],
+  "author": "jensbodal@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "istanbul-lib-instrument": "1.7.2"
+  }
+}
