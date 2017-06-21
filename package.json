@@ -1,6 +1,7 @@
 {
   "name": "karma-coverage-istanbul-es5-preprocessor",
-  "version": "1.0.0",
+  "repository": "https://github.com/jensbodal/karma-coverage-istanbul-es5-preprocessor",
+  "version": "1.0.1",
   "description": "Karma preprocessor to instrument es5 files for use with karma-coverage-istanbul-reporter",
   "main": "./lib/index.js",
   "scripts": {
